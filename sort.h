@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-/*
+/**
  * struct listint_s - Doubly linked list node
  *
  * @n: Integer stored in the node
